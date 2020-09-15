@@ -1,0 +1,25 @@
+** HOW TO START AT END CLASS **
+
+-- START --
+
+1. Open IDLE
+
+2. Open a 'new file' in IDLE. 
+
+3. Work through exercises.
+
+-- END --
+
+4. Save all files to your github folder on your desktop (named computerengineering). 
+
+5. In either CMD (Windows) or Terminal (Mac):
+	a. change directory to your desktop GitHub folder.
+		i. Windows: "cd C:/Users/User/Desktop/computerengineering"
+		ii. Mac: "cd /Users/Your Login Name/Desktop/computerengineering"
+
+	b. type: "git add --all"
+	c. type: git commit -m 'a note that briefly describes the upload'
+	d. type: git push --all
+	e. it might ask you to login, that's okay just follow along. 
+
+Now your notes are all in one common place on the net for you to access. This is also a great way to share your work with other people, or to use inspiration from other accounts! 
