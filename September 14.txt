@@ -1,0 +1,31 @@
+Notes for September 14 
+
+We discussed the toast continuum. 
+
+First, we did GitHub accounts and downloads. 
+
+Then we opened IDLE, and created a text file for notes. 
+
+Python has really simple language. 
+
+I can use python as a calculator 
+Examples: 
+>>> 10 + 10
+20
+
+>>>19 * 18
+342 
+
+calculator python settings we have OPERATORS 
+ + is plus or add 
+ - is subtract 
+ * is multiply 
+ / is divide 
+ ** is a power 
+
+(bonus, square root is the same as fraction power).
+example of this 4**(1/2) = 2
+
+Assignment: tell me the area of a sphere with a radius of 5
+
+If I leave my house at 6:52 AM, and run 1 km at an easy pace (8:15min/km), then 3 km at a hard pace (7:12min/km) and 1 km at easy pace again, what time do I get home for breakfast?
