@@ -26,4 +26,5 @@ Using only what we have learned so far, write a function that draws a grid like 
 
 
 Due Tuesday September 22
+You must email bell your file for this assignment. 
 
