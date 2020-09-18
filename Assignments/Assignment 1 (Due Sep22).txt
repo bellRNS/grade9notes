@@ -1,0 +1,29 @@
+exercises authored by Allan Downey - Think Python 
+
+
+1. 
+Python provides a built-in function called len that returns the length of a string, 
+so the value of len(‘bell’) is 4. 
+Write a function named right_justify that takes a string named s as a parameter and 
+prints the string with enough leading spaces so that the last letter 
+of the string is in column 70 of the display. 
+
+
+2. 
+Using only what we have learned so far, write a function that draws a grid like the following:
+
++ - - - - + - - - - +
+|	  |	    |
+|	  | 	    |
+|	  |	    |
+|	  | 	    |
++ - - - - + - - - - +
+|	  |	    | 
+|	  | 	    |
+|	  | 	    | 
+| 	  | 	    | 
++ - - - - + - - - - + 
+
+
+Due Tuesday September 22
+
