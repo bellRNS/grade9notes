@@ -22,7 +22,32 @@ def beans():
     
 #level 6-7
 # if something is divisible with no remainder
-# modulo (%) division will return 0 
+# modulo (%) division will return 0
+
+# here is the simpler way to do it...
+for i in range(1,101):
+    if i % 15 == 0:         # You need to have 15 first for this method to work.
+        print('Fizzbuzz')
+    elif i % 5 == 0:
+        print('Buzz')
+    elif i % 3 == 0:
+        print('Fizz')
+    else:
+        print(i)
+
+# the cheeky string way that was presented in class.
+
+for i in range(1,101):
+    string = ""
+    if i % 3 == 0:
+        string = string + "fizz"
+    if i % 5 == 0:
+        string = string + "buzz"
+    if i % 3 != 0 and i % 5 != 0:
+        string = string + str(i)
+    print(string)
+
+
 
 
 
