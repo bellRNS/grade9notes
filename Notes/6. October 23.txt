@@ -1,0 +1,11 @@
+OCTOBER 23
+
+Today we submitted our games and uploaded them to the common drive on GitHub
+(https://github.com/bellRNS/grade9notes/tree/master/Student%20Work/If%20Project)
+
+
+After we were done, we were introduced to linux commands at the following:
+
+https://www.raspberrypi.org/documentation/linux/usage/commands.md
+
+We will have a quiz on using linux commands next week (October 29).
