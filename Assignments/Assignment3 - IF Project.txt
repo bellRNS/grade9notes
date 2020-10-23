@@ -35,7 +35,7 @@ defined (see below for example).
 outcome. Example here: https://play.aidungeon.io/main/landing
 
 
-*** Assignment 3  - END ***
+*** Assignment 3  - DUE OCTOBER 23 ***
 
 
 Appendix: notes on modular functions 

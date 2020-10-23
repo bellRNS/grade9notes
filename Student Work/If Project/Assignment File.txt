@@ -1,0 +1,60 @@
+*** Assignment 3 - Command Line Game/Help Tool ***
+
+Your task for this assignment will to be to develop a command line style
+game. This will be very similar to our 'check_in_bot' that we created in 
+class. 
+
+You must create a game/tool that contains IF statements. Examples of this may
+be: 
+-A Dungeon Game (choose your fate at each turn)
+-A diagnostic tool (is your refrigerator operating properly?)
+-An artificial chat bot (someone to soothe our emotions, like the check_in example)
+-Anything you can think of (as long as you get it approved)
+
+You must create something that you think is valuable or fun. 
+
+Please do not do the bare minimum on this project. It sounds easy enough, but you 
+must try to make it as interesting and helpful as possible. 
+
+You will be marked as follows: 
+
+1 - Your game/tool can not be run by python, and shows little to no effort.
+
+2 - Your game tool is simple but has errors. You have fewer than 4 'nodes'
+
+3 - Your game/tool is simple and runs (no errors). You have 5 or more 'nodes'
+
+4 - Your game/tool is simple, runs, has more than 5 'nodes' and has modular functions
+defined (see below for example).
+
+5 - A 4 + has more than 10 'nodes'
+
+6 - A 5 + You incorporated sound and images into your game.
+
+7 - You used an artificial intelligence to create an elaborate and fantastical 
+outcome. Example here: https://play.aidungeon.io/main/landing
+
+
+*** Assignment 3  - DUE OCTOBER 23 ***
+
+
+Appendix: notes on modular functions 
+
+if x == 4: 
+	print(hello!)
+	return x + 5
+
+
+VERSUS 
+def turn_1():
+	print(hello!)
+	return x + 5
+
+
+if x == 4: 
+	turn_1()
+
+
+Essentially, your game code will look very tidy, and your functions will be defined at the 
+top of the page (We will discuss this during class time)
+
