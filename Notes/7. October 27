@@ -1,0 +1,32 @@
+
+pwd - present working directory (folder)
+	-gives a path to where you are. 
+
+cd -change directory to a new path.
+	- to go back a directory try cd -
+
+mkdir - make a directory INSIDE the path where you are
+
+ls - list all the things inside the present directory. 
+
+touch - creates a file, you NEED to give it a .ending
+	(i.e. text files are .txt
+	i.e. python files are .py
+	i.e. javascript files are .js)
+
+rm -R  -Will delete the file or folder you select. 
+
+python3 - brings up the python interpreter
+		-to get out of python3 use ctrl+z
+
+sudo - super user that has all permissions (super touch of god). 
+
+nano - is the file editor that we will use. 
+
+cat - tells you the first 10 lines of info on a file. 
+
+ping - checks connection to a website (server). 
+	-type ctrl + z to get out 
+
+sudo apt-get update -updates your raspberry system
+

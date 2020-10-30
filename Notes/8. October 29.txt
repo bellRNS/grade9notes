@@ -1,0 +1,7 @@
+Today we wrote a linux command quiz using the raspberry pi.
+
+Then we discussed circuits, and showed how we can use a pi to 
+incorporate circuits and code. 
+
+Begin to think: 
+What can you do with this knowledge?
