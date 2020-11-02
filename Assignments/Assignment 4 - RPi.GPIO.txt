@@ -1,0 +1,28 @@
+Computer Engineering - Raspberry Pi 
+GPIO Assignment 
+Due November 10, 2020
+
+Task:
+Design a simple GPIO event using our basic materials from the breakout kit provided.
+
+Background:
+See the class notes on Github for guidance on the code we used in class.(https://github.com/bellRNS/grade9notes/tree/master/Notes)
+
+Expectations: 
+You will be working with a randomly assigned partner. 
+You must follow the format of: 
+	-Example Name (Title)
+	-Description of what it does (very simple)
+	-Picture of bread-board set up (or diagram drawn)
+	-Python code with description of what its actually doing. 
+
+Scoring:
+2 - Unacceptable representation and code does not run
+3 - Acceptable representation and code does not run 
+4 - Acceptable representation and code runs with 1-2 devices 
+5 - Professional representation and code runs with 2 devices 
+6 - Professional representation and code runs with 2-3devices 
+7 - Professional representation and code runs with 2-3devices and the code solves a problem/creates a game. 
+
+
+Due November 10 End of Class 
