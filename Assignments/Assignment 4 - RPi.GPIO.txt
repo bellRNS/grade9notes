@@ -9,12 +9,14 @@ Background:
 See the class notes on Github for guidance on the code we used in class.(https://github.com/bellRNS/grade9notes/tree/master/Notes)
 
 Expectations: 
-You will be working with a randomly assigned partner. 
+You will be working with a partner. 
 You must follow the format of: 
 	-Example Name (Title)
 	-Description of what it does (very simple)
 	-Picture of bread-board set up (or diagram drawn)
 	-Python code with description of what its actually doing. 
+
+You will hand in a single google doc.
 
 Scoring:
 2 - Unacceptable representation and code does not run
